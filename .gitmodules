@@ -1,0 +1,4 @@
+[submodule "kardex"]
+	path = kardex
+	url = git@github.com:rocketgithub/kardex.git
+	branch = 13.0
